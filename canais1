@@ -17,6 +17,29 @@ https://ia801503.us.archive.org/11/items/vinhetagardenol02/Vinheta%20Gardenol%20
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/logo/lhmtv.png" group-title="SEJA BEM VINDO!",LHMTV.NET Vinheta
 http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
 
+##################################################
+##      Se você copiar os dados desta lista     ##
+##        pelo menos nos de os créditos !       ##
+##      deu muito trabalho para Pesquisar,Fazer ##
+##      e Manter a Lista Atualizada, Obrigado.  ##
+##             Carlos - Gardenol Iptv           ##
+##        https://gardenoliptv.blogspot.com     ##
+##################################################
+
+##################################################
+##                  CRÉDITOS                    ##
+##     LISTA IPTV : CARLOS-GARDENOL IPTV        ##
+##     https://gardenoliptv.blogspot.com        ##
+##                                              ##
+##   ( LISTA GRÁTIS - SEM FINS LUCRATIVOS )     ##
+##                                              ##
+##       ADAPTAÇÃO: CARLOS GARDENOL IPTV        ##
+##################################################
+
+
+## LISTA CARLOS GARDENOL IPTV - CANAL ABERTO CARLOS ## 
+
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/logofoneblog300_201908/Logo%20Fone%20Blog%20300.png" group-title="CANAL ABERTO CARLOS",TV GARDENOL 1080p
 https://ia801500.us.archive.org/12/items/tvgardenol1/Tv%20Gardenol%201.mp4?cnt=0
 
@@ -773,4 +796,3 @@ http://centova6.ciclanohost.com.br:9256/;
 
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/41320/mobileicon/accc70bbf65c946829238872f6651bbb.png" group-title="Radios Apenas Audio",Radio Eldorado FM
 http://noasrv.caster.fm:10136/stream
-
