@@ -1,3 +1,5 @@
+public class PermissionCheck
+
 public static void checkPermission(Activity context) {
         if (Build.VERSION.SDK_INT >= 23) {
             List<String> permissions = null;
@@ -37,3 +39,4 @@ public static void checkPermission(Activity context) {
             }
         }
     }
+}
